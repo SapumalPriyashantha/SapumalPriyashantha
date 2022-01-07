@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Sapumal Priyashantha - [sapumalpriyashantha][website] 👋 
 
 ## I'm a Developer, Designer, Freelancer !!
