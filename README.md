@@ -1,35 +1,121 @@
-### Hi there, I'm Sapumal Priyashantha - [sapumalpriyashantha][website] 👋 
+<img alt="Coding" width="6000" height="150" src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif">
+<h1 align="center">Hi 👋, I'm Sapumal Priyashantha</h1>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-## I'm a Developer, Designer, Freelancer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Completion of bachelor degree
-- ⚡ Fun fact: I love to watch TV serious and play cricket
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapumalpriyashantha&label=Profile%20views&color=0e75b6&style=flat" alt="sapumalpriyashantha" /> </p>
 
-### Connect with me:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- 🌱 I’m currently learning **react native**
 
-<br />
-<br />
+- 👨‍💻 All of my projects are available at [https://sapumalpriyashantha.000webhostapp.com/](https://sapumalpriyashantha.000webhostapp.com/)
 
----
+- 📫 How to reach me **sapumalpriyashantha2000@gmail.com**
 
-### Languages and Tools:
+- ⚡ Fun fact **playing cricket & watching t.v. series**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/sapumal-priyashantha-826199225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapumal-priyashantha-826199225" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sapumal-priyashantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sapumal-priyashantha" height="30" width="40" /></a>
+<a href="https://fb.com/sapumal.priyashantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sapumal.priyashantha" height="30" width="40" /></a>
+</p>
 
-<br />
-<br />
+<h2 align="left">Skills:</h2>
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
+ <a href="https://jquery.com" target="_blank" rel="noreferrer">
+ <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+ <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" alt="bootstrap" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+ </P>
 
----
+<h3 align="left">Frontend Development:</h3>
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+ <a href="https://mui.com" target="_blank" rel="noreferrer">
+ <img src="https://mui.com/static/logo.png" alt="bootstrap" width="40" height="40"/> 
+</a>
+ <a href="https://jsonformatter.curiousconcept.com" target="_blank" rel="noreferrer">
+ <img src="https://icon-library.com/images/json-icon-png/json-icon-png-1.jpg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ </a>
+</P>
 
-[website]: https://sapumalpriyashantha.000webhostapp.com
-[twitter]: https://twitter.com/twitter
-[linkedin]: https://www.linkedin.com/in/sapumal-priyashantha-826199225
+<h3 align="left">Backend Development:</h3>
+<p align="left"> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+ <img src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://hibernate.org" target="_blank" rel="noreferrer">
+ <img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="40" height="40"/> 
+</a>   
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+</a>
+</P>
+
+<h3 align="left">Mobile App Development:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</a>  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a> </P>
+
+<h3 align="left">Database:</h3>
+<p align="left">  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a></P>
+
+<h3 align="left">Software:</h3>
+<p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a><a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer">
+ <img src="https://icon-library.com/images/intellij-idea-icon/intellij-idea-icon-5.jpg" alt="bootstrap" width="40" height="40"/> 
+</a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="bootstrap" width="40" height="40"/> 
+</a></p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+</P>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapumalpriyashantha&show_icons=true&locale=en&layout=compact" alt="sapumalpriyashantha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapumalpriyashantha&show_icons=true&locale=en" alt="sapumalpriyashantha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapumalpriyashantha&" alt="sapumalpriyashantha" /></p>
